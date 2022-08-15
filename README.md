@@ -1,30 +1,36 @@
 <!--
 **Fyfynn/Fyfynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
  ### WORK IN PROGRESS /!\
  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
   
-  <p> I'm Delphine 
-  <br>
-  Student at Epitech in DATA / IA.
+   ### :wave: I'm Delphine 
+ 
+  :fr: Student at Epitech in DATA / IA. 
   <br>
   Love working or learning new skills everydays !
   </p>
   </div>
+  
+  <table>
+ <tr>
+  <td>
+   <img width="1000" height="1"><br>
+- 🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- 📫 How to reach me: ...<br>
+- 😄 Pronouns: ...<br>
+- ⚡ Fun fact: ...
+  </td>
+ </tr>
+</table>
   
   ### :hammer_and_wrench: Languages and Tools that I used and still learning :
   
