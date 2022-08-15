@@ -16,6 +16,7 @@
   </p>
   </div>
   
+  <details><summary> Skills </summary>
   <table>
  <tr>
   <td>
@@ -31,6 +32,7 @@
   </td>
  </tr>
 </table>
+</details>
   
   ### :hammer_and_wrench: Languages and Tools that I used and still learning :
   
