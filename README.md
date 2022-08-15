@@ -19,7 +19,7 @@
   <table>
  <tr>
   <td>
-   <img width="780" height="1"><br>
+   <img width="795" height="1"><br>
 - 🔭 I’m currently working on ...<br>
 - 🌱 I’m currently learning ...<br>
 - 👯 I’m looking to collaborate on ...<br>
@@ -56,7 +56,7 @@
  <tr>
    <th><p>Tools</p></th>
     <td align="center">
-      <img width="730" height="1">
+      <img width="750" height="1">
       <p>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width=40px height=40px /> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=40px height=40px />
       </p>
