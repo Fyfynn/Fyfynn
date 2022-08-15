@@ -3,7 +3,7 @@
 -->
 
  ### WORK IN PROGRESS /!\
- 
+ - 📫 How to reach me: ...<br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
@@ -16,21 +16,21 @@
   </p>
   </div>
   
-  <details><summary> Skills </summary>
-  <table>
- <tr>
-  <td>
-   <img width="795" height="1"><br>
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...
-  </td>
- </tr>
+  <details><summary> About me :blush: </summary>
+  <table border="1">
+  <img width="795" height="1"><br>
+  <tr>
+    <th>Description</th>
+    <th>Goals</th>
+  </tr>
+  <tr>
+    <td>- 🔭 I’m currently working on Python !<br>
+    - 🌱 I’m currently learning on many things !<br>
+    - 🤔 I’m looking for an internship !</td>
+    <td>- 🔭 I’m currently working on Python !<br>
+    - 🌱 I’m currently learning on many things !<br>
+    - 🤔 I’m looking for an internship !</td></td>
+  </tr>
 </table>
 </details>
   
