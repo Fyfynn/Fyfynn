@@ -16,25 +16,34 @@
   </p>
   </div>
   
-  <details><summary> About me :blush: </summary>
-  <table border="1">
-  <img width="795" height="1"><br>
+  
+  <table>
   <tr>
-    <th>Description</th>
-    <th>Goals</th>
-  </tr>
-  <tr>
-    <td>- 🔭 I’m currently working on Python !<br>
-    - 🌱 I’m currently learning on many things !<br>
-    - 🤔 I’m looking for an internship !</td>
-    <td>- 🔭 I’m currently working on Python !<br>
-    - 🌱 I’m currently learning on many things !<br>
-    - 🤔 I’m looking for an internship !</td></td>
+    <td>
+      <img width="500" height="1">
+        <details><summary> About me </summary> 
+          <p>
+          <hr />
+        - 🔭 I’m currently working on Python !<br>
+        - 🌱 I’m currently learning on many things !<br>
+        - 🤔 I’m looking for an internship and opportunities !<br>
+        - In my free time, I love draw, pixel art, and video games, compose music with FL Studio, sew, and running sometimes
+          </p>
+        </details>
+    </td>
+    <td>
+      <img width="500" height="1">
+        <details><summary> Goals </summary> 
+          <p>
+            <hr />
+           This week I spent my time on my first Portofolio's design 
+          </p>
+        </details>
+    </td>
   </tr>
 </table>
-</details>
   
-  ### :hammer_and_wrench: Languages and Tools that I used and still learning :
+  ## :hammer_and_wrench: Languages and Tools that I used and still learning :
   
 <table>
   <tr>
