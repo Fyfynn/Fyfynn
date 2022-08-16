@@ -21,7 +21,7 @@
   <tr>
     <td>
       <img width="385" height="1">
-        <details><summary><code> About me 😊</code></summary> 
+        <details><summary>About me 😊</summary> 
           <p>
           <hr />
         - 🔭 I’m currently working on Python !<br>
@@ -33,12 +33,12 @@
     </td>
     <td>
       <img width="385" height="1">
-        <details><summary><code> Goals 🎯</code></summary> 
+        <details><summary>Goals 🎯</summary> 
           <p>
             <hr />
-           - 💻 This week I spent my time on my first Portofolio's design ! 
-           - I want to improve my knowledge of English !
-           - I really want to improve my old projects !
+           - 💻 This week I spent my time on my first Portofolio's design !<br>
+           - :books: I want to improve my knowledge of English !<br>
+           - :hourglass_flowing_sand: I really want to improve my old projects !
           </p>
         </details>
     </td>
