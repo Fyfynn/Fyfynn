@@ -32,7 +32,7 @@
         </details>
     </td>
     <td>
-      <img width="385" height="1">
+      <img width="383" height="1">
         <details><summary>Goals 🎯</summary> 
           <p>
             <hr />
