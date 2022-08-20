@@ -85,21 +85,32 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 </table>
 
 ---
+ 
+ ### :dancer: Vibe with me and don't hesitate to share masterclass !
+ 
+<div align="left">
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
+ <img src="https://media.giphy.com/media/J61swiurHE3dZj6I5g/giphy.gif" width="200"/>
+</div>
+
+---
+
+## 🔍 But... Where to find me ?
 
 <div id="badges">
+<img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
+$~~~~~~~~~~~~~~~~$
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+$~~~~~~~~~~~~~~~~$
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
-  </div>
-<div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
-
-<img src="https://media.giphy.com/media/J61swiurHE3dZj6I5g/giphy.gif" width="200"/>
-</div>
-
+ </div>
+ </div>
+ 
 <!-- <div>
 
   
