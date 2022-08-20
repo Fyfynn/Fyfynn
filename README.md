@@ -105,14 +105,11 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ---
 
 ## 🔍 But... Where to find me ?
-<table>
-<div id="badges">
-<img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
 
-<div align="center">
-```
 
-$~~~~~~$
+
+<p align="left"> 
+ <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -128,8 +125,6 @@ $~~~~~~$
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify Badge"/>
     </a>
-```
 
- </div>
- </div>
- </table>
+ </p>
+ 
