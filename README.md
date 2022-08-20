@@ -1,9 +1,6 @@
 <!--
 **Fyfynn/Fyfynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- ### WORK IN PROGRESS /!\
- - 📫 How to reach me: ...<br>
-
 <div align="center">
 <img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif"/>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
@@ -88,7 +85,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ---
 
-<div align="center">
+<div>
 <a href="https://github.com/fyfynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
 </a>
