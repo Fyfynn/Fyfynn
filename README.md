@@ -22,6 +22,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
   </p>
   </div>
   
+  <h4 align="center">All of my contents is made with ❤️ and meeting incredible people on the way !</h4>
   
   <table>
   <tr>
@@ -30,9 +31,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
         <details><summary>About me 😊</summary> 
           <p>
           <hr />
-        - 🔭 I’m currently working on Python !<br>
+        - 🔭 I’m currently working on `Python` !<br>
         - 🌱 I’m currently learning on many things !<br>
-        - 🔍 I’m looking for an internship and opportunities !<br>
+        - 🔍 I’m looking for an `internship` and `opportunities` !<br>
         - ⭐ I love draw, pixel art, video games, compose music, sew, and running sometimes !
           </p>
         </details>
@@ -52,8 +53,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 </table>
   
   ## :hammer_and_wrench: Languages and Tools that I used and still learning :
-  
-  <p> All of my contents is made with :heart:	 and meeting incredible people on the way ! 
   
 <table>
   <tr>
@@ -87,12 +86,14 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 
 ----
 
+<div align="center">
 <a href="https://github.com/fyfynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/fyfynn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyfynn&show_icons=true&theme=tokyonight" width="400" />
 </a>
+</div>
 
 ----
  
@@ -103,8 +104,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
  <img src="https://media.giphy.com/media/J61swiurHE3dZj6I5g/giphy.gif" width="200"/>
 </div>
-
----
 
 ## 🔍 But... Where to find me ?
 
