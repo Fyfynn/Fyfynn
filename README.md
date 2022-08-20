@@ -54,6 +54,8 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   
   ## :hammer_and_wrench: Languages and Tools that I used and still learning :
   
+  <p> All of my contents is made with :heart:	 and meeting incredible people on the way ! 
+  
 <table>
   <tr>
    <th><p>Backend</p></th>
@@ -84,6 +86,8 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   </tr>
 </table>
 
+---
+
 <div align="center">
 <a href="https://github.com/fyfynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
@@ -92,6 +96,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyfynn&show_icons=true&theme=tokyonight" />
 </a>
 </div>
+
 ---
  
  ## :dancer: Vibe with me and don't hesitate to share masterclass !
@@ -112,10 +117,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-$~~~~~~$
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
 $~~~~~~$
     <a href="your-youtube-URL">
