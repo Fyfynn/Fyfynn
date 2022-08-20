@@ -110,7 +110,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 
 
 <p align="left"> 
- <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="150"/>
     <a href="https://www.linkedin.com/in/delphine-hacquard-066069245/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
