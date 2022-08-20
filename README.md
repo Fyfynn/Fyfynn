@@ -88,12 +88,16 @@
     </a>
   </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
+
 <!-- <div>
 
   
-  
-  
-  
+  https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+
+  https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
     <img src="" title="Git" **alt="Git" width="40" height="40"/>
 
 
