@@ -17,7 +17,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
   :fr: Student at Epitech in DATA / IA. 
   <br>
-  Love working or learning new skills everydays !
+  Love working or learning new skills everydays !</br>
+  
+  <details><summary>To survive I opted for...</summary><img src="https://media.giphy.com/media/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="200"/></details>
   </p>
   </div>
   
@@ -92,8 +94,11 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
   </div>
-
+<div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
+
+<img src="https://media.giphy.com/media/J61swiurHE3dZj6I5g/giphy.gif" width="200"/>
+</div>
 
 <!-- <div>
 
