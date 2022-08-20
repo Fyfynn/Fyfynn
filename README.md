@@ -20,7 +20,7 @@
   <table>
   <tr>
     <td>
-      <img width="385" height="1">
+      <img width="390" height="1">
         <details><summary>About me 😊</summary> 
           <p>
           <hr />
@@ -32,7 +32,7 @@
         </details>
     </td>
     <td>
-      <img width="385" height="1">
+      <img width="390" height="1">
         <details><summary>Goals 🎯</summary> 
           <p>
             <hr />
