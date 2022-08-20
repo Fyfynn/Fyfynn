@@ -51,6 +51,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
     </td>
   </tr>
 </table>
+  </br>
   
   ## :hammer_and_wrench: Languages and Tools that I used and still learning :
   
@@ -83,6 +84,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
     </td>
   </tr>
 </table>
+</br>
 
 ----
 
@@ -96,6 +98,8 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 </div>
 
 ----
+ 
+ </br>
  
  ## :dancer: Vibe with me and don't hesitate to share masterclass !
  
