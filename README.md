@@ -84,18 +84,19 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   </tr>
 </table>
 
+<div align="center">
 <a href="https://github.com/fyfynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/fyfynn/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyfynn&show_icons=true&theme=tokyonight" />
 </a>
-
+</div>
 ---
  
- ### :dancer: Vibe with me and don't hesitate to share masterclass !
+ ## :dancer: Vibe with me and don't hesitate to share masterclass !
  
-<div align="left">
+<div align="center">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&cover_image=true&theme=novatorem&bar_color=a33e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178034244&redirect=true)
  <img src="https://media.giphy.com/media/J61swiurHE3dZj6I5g/giphy.gif" width="200"/>
@@ -104,9 +105,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ---
 
 ## 🔍 But... Where to find me ?
-
+<table>
 <div id="badges">
 <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
+
+<div align="center">
+```
+
 $~~~~~~$
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -115,19 +120,16 @@ $~~~~~~$
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
+$~~~~~~$
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Spotify Badge"/>
+    </a>
+$~~~~~~$
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify Badge"/>
+    </a>
+```
+
  </div>
  </div>
- 
-<!-- <div>
-
-  
-  https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-
-  https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-    <img src="" title="Git" **alt="Git" width="40" height="40"/>
-
-
-
-</div> --!>
+ </table>
