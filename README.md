@@ -84,6 +84,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   </tr>
 </table>
 
+<a href="https://github.com/fyfynn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/fyfynn/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyfynn&show_icons=true&theme=tokyonight" />
+</a>
+
 ---
  
  ### :dancer: Vibe with me and don't hesitate to share masterclass !
@@ -100,11 +107,11 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <div id="badges">
 <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="200"/>
-$~~~~~~~~~~~~~~~~$
+$~~~~~~$
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-$~~~~~~~~~~~~~~~~$
+$~~~~~~$
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
