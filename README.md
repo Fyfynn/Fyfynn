@@ -3,9 +3,9 @@
 -->
 <div align="center">
 <img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif"/>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif"/>
 </div>
 
