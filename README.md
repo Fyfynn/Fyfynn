@@ -87,14 +87,12 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 
 ---
 
-<div align="left">
 <a href="https://github.com/fyfynn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfynn&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/fyfynn/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyfynn&show_icons=true&theme=tokyonight" />
 </a>
-</div>
 
 ---
  
