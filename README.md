@@ -1,9 +1,14 @@
 <!--
 **Fyfynn/Fyfynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
  ### WORK IN PROGRESS /!\
  - 📫 How to reach me: ...<br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif"/>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+<img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif"/>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
