@@ -115,17 +115,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 
 <p align="left"> 
  <img src="https://media.giphy.com/media/Yf7kN6Xdle87K/giphy.gif" width="150"/>
+ <a href="mailto:delphine.hacquard@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/delphine-hacquard-066069245/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-$~~~~~~$
     <a href="mailto:delphine.hacquard@epitech.eu">
       <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Spotify Badge"/>
     </a>
-$~~~~~~$
-    <a href="mailto:delphine.hacquard@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Spotify Badge"/>
-    </a>
 
- </p>
- 
